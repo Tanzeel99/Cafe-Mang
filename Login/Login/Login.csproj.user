@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AllUserControl\UC_AddItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllUserControl\UC_PlaceOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllUserControl\UC_Remove.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllUserControl\UC_Update.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AllUserControl\UC_Welcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
